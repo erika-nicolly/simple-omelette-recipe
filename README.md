@@ -20,15 +20,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 Programa exclusivo e gratuito, promovido pelo Front-end Mentor para ensino de tecnologias WEB.
 
-<br>
-
-## 🔖 Layout
-
 
 <br>
 
 ## 🌐 Acesse o projeto
-👉 [recipe](https://erika-nicolly.github.io/DevLinks/#)
+👉 [recipe](https://erika-nicolly.github.io/simple-omelette-recipe/)
 
 <br>
 
